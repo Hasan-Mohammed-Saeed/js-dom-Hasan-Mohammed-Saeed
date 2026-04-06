@@ -7,7 +7,6 @@ function changeHeadingText() {
     if (heading) {
         heading.textContent = 'DOM Manipulation Challenge';
     }
-
 }
 
 /**
